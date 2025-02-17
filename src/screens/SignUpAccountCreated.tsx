@@ -35,7 +35,7 @@ export const SignUpAccountCreated: React.FC = () => {
           }}
         >
           <img
-            src='https://george-fx.github.io/dine-hub/05.jpg'
+            src='https://swapnil27012000.github.io/dinetime/05.jpg'
             alt='Account created'
             className='status-img'
             style={{marginBottom: 14}}

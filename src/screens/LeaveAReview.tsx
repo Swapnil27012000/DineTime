@@ -39,7 +39,7 @@ export const LeaveAReview: React.FC = () => {
             alt='rate service'
             className='status-img'
             style={{marginBottom: 10}}
-            src='https://george-fx.github.io/dinetime_api/assets/images/08.jpg'
+            src='https://swapnil27012000.github.io/dinetime_api/assets/images/08.jpg'
           />
           <h2
             style={{

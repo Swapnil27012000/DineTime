@@ -26,7 +26,7 @@ export const OrderFailed: React.FC = () => {
           }}
         >
           <img
-            src='https://george-fx.github.io/dinetime_api/assets/images/11.jpg'
+            src='https://swapnil27012000.github.io/dinetime_api/assets/images/11.jpg'
             alt='Order successful'
             className='status-img'
           />

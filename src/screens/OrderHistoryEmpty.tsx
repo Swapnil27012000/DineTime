@@ -37,7 +37,7 @@ export const OrderHistoryEmpty: React.FC = () => {
           className='center'
         >
           <img
-            src='https://george-fx.github.io/dinetime_api/assets/images/10.jpg'
+            src='https://swapnil27012000.github.io/dinetime_api/assets/images/10.jpg'
             alt='Account created'
             className='status-img'
             style={{marginBottom: 14}}

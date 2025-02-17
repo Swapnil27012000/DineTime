@@ -1,4 +1,4 @@
-const MAIN_URL = 'https://george-fx.github.io/dinetime_api/';
+const MAIN_URL = 'https://swapnil27012000.github.io/dinetime_api/';
 
 export const GET_MENU = `${MAIN_URL}api/menu.json`;
 export const GET_DISHES = `${MAIN_URL}api/dishes.json`;

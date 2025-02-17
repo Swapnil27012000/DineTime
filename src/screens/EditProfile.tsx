@@ -48,7 +48,7 @@ export const EditProfile: React.FC = () => {
             className='center clickable'
           >
             <img
-              src='https://george-fx.github.io/dinetime_api/assets/users/01.jpg'
+              src='https://swapnil27012000.github.io/dinetime_api/assets/users/01.jpg'
               alt='profile'
               style={{
                 maxWidth: 100,

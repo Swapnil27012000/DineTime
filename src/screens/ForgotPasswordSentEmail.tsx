@@ -33,7 +33,7 @@ export const ForgotPasswordSentEmail: React.FC = () => {
           }}
         >
           <img
-            src='https://george-fx.github.io/dinetime_api/assets/images/09.jpg'
+            src='https://swapnil27012000.github.io/dinetime_api/assets/images/09.jpg'
             alt='email sent'
             className='status-img'
             style={{marginBottom: 14}}

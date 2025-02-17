@@ -127,7 +127,7 @@ export const Order: React.FC = () => {
             }}
           >
             <img
-              src='https://george-fx.github.io/dinetime_api/assets/images/02.jpg'
+              src='https://swapnil27012000.github.io/dinetime_api/assets/images/02.jpg'
               alt='Empty cart'
               style={{
                 width: 'calc(100% - 80px)',

@@ -110,7 +110,7 @@ export const Header: React.FC<Props> = ({
       >
         <img
           alt='user'
-          src='https://george-fx.github.io/dinetime_api/assets/users/01.jpg'
+          src='https://swapnil27012000.github.io/dinetime_api/assets/users/01.jpg'
           style={{width: 22, height: 22, borderRadius: 20}}
         />
         {userName && <h5>Jordan Hebert</h5>}
@@ -260,7 +260,7 @@ export const Header: React.FC<Props> = ({
             }}
           >
             <img
-              src='https://george-fx.github.io/dinetime_api/assets/users/01.jpg'
+              src='https://swapnil27012000.github.io/dinetime_api/assets/users/01.jpg'
               alt='user'
               style={{width: 60, height: 60, borderRadius: 20}}
             />

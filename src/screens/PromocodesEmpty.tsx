@@ -37,7 +37,7 @@ export const PromocodesEmpty: React.FC = () => {
           }}
         >
           <img
-            src='https://george-fx.github.io/dinetime_api/assets/images/04.jpg'
+            src='https://swapnil27012000.github.io/dinetime_api/assets/images/04.jpg'
             alt='Promocodes'
             style={{margin: 'auto', display: 'block'}}
             className='status-img'
